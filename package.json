@@ -1,0 +1,23 @@
+{
+  "name": "project-setup",
+  "version": "1.0.0",
+  "description": "project setup configuration challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "challenge"
+  ],
+  "author": "Victor Perez",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.6"
+  }
+}
